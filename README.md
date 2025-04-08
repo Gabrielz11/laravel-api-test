@@ -41,7 +41,7 @@ Projeto simples de API com Laravel, criado para testes com **Model personalizado
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/gabrielz11/laravel-api-test.git
+git clone https://github.com/Gabrielz11/laravel-api-test.git
 cd laravel-api-test
 ```
 
